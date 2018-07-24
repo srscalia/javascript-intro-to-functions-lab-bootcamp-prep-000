@@ -7,7 +7,7 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string === string.toUpperCase() {
+  if (string === string.toUpperCase()) {
     return string;
   } else if (string === string.toLowerCase()) {
     return string.toUpperCase();
